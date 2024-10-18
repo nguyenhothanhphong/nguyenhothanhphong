@@ -33,6 +33,7 @@
 ## 🏆 GitHub Achievements
 <div>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhothanhphong&show_icons=true&theme=nightowl" />
+    <br></br>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhothanhphong&layout=compact&theme=nightowl" alt="Top Languages">
 </div>
 <br></br>
