@@ -1,7 +1,7 @@
 <h1>Hello Everyone</h1>
 
   ## 🚀 About Me
- <li>👋 Hi, I’m @nguyenhothanhphong aka Nguyễn Hồ Thanh Phong</li>
+ <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
  <li> I 💖 Anime</li>
  <li><em>Front-end Developer | Android Development</em></li>
  
